@@ -7,6 +7,7 @@ The goal of this project is to complete a full data science lifecycle including 
 ## Business Understanding 
 The number of taxi pickups varies heavily depending on area, day, hour, season, weather and many more factors. Having more detailed information on future pickup numbers helps organise taxi companies to distribute their taxis more efficiently. 
 ## Data Mining
+The data used for this project is available at https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 ## Data Cleaning
 ## Data Exploration
 ## Feature Engineering
