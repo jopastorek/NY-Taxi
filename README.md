@@ -10,7 +10,7 @@ The number of taxi pickups varies heavily depending on area, day, hour, season, 
 ## Data Mining
 The data used for this project is available at https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page for 2009 until 2019. In 2017 the data format changes such that there are no pickup and drop off coordinates available anymore. Instead, rides are assigned one of around 250 pickup and drop off zones in order to specify location of start and end of a ride. Hence, data from 2017 till 2019 will be used. The provided data included every ride. In a first step all rides are goind to be aggregated to time-series bins of one hour. This also reduces the size of the data quite significantly from its original 25 GB size, which makes it easier to work with.
 ## Data Cleaning
-
+Only the following taxi rides are to be included in the final dataset: taxi trips of 100 miles max, at least one passenger, a trip duration of at least one minute and two hours max. 
 ## Data Exploration
 ## Feature Engineering
 ## Predictive Modeling
