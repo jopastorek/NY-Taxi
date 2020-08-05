@@ -1,7 +1,6 @@
 # CAUTION - This project is currently under construction
 # New York City Taxi Ride Prediction
-![](http://shekhar.info/images/pickups.jpg)
-Picture by Ravi Shekar
+![](https://www.tripsavvy.com/thmb/oJts9MQYdhrt93nNu_y83XKt1PQ=/5125x3417/filters:fill%28auto,1%29/traffic-in-times-square--new-york-city-77817998-5c2e88c146e0fb00013a2772.jpg)
 
 The goal of this project is to complete a full data science lifecycle including the following topics:
 
