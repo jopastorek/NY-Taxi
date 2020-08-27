@@ -1,4 +1,3 @@
-# CAUTION - This project is currently under construction
 # New York City Taxi Ride Prediction
 ![](https://www.tripsavvy.com/thmb/oJts9MQYdhrt93nNu_y83XKt1PQ=/5125x3417/filters:fill%28auto,1%29/traffic-in-times-square--new-york-city-77817998-5c2e88c146e0fb00013a2772.jpg)
 
@@ -17,8 +16,3 @@ The data has strong seasonal effects with a downward trend. First, rides are tre
 ## Feature Engineering
 ## Predictive Modeling
 ## Data Visualization
-
-
-## Future Work
-There is a lot left to be done, e.g.
-- [ ] first
